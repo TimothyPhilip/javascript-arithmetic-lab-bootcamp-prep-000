@@ -14,7 +14,7 @@ function divide(x, y){
   return x / y
 }
 
-var 
+var n = 1 
 function inc(n){
   return n++
 }
