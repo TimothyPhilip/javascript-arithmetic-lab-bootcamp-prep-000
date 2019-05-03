@@ -16,5 +16,5 @@ function divide(x, y){
 
 function inc(n){
   return n++
-  console.log(n ==)
+  console.log(n == 1)
 }
