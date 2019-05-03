@@ -14,5 +14,5 @@ function divide(x, y){
   return x / y
 }
 
-var 
+var number = 5
 function 
