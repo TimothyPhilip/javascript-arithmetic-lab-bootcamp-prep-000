@@ -15,6 +15,6 @@ function divide(x, y){
 }
 
 function increment(number){
-  var number = 5
+  var number = 5;
   return 
 }
