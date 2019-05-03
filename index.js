@@ -16,4 +16,5 @@ function divide(x, y){
 
 function inc(n){
   return n++
+  console.log
 }
