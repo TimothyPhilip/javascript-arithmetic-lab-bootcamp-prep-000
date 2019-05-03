@@ -15,4 +15,4 @@ function divide(x, y){
 }
 
 var number = 5
-function number
+function increment()
