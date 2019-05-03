@@ -14,7 +14,7 @@ function divide(x, y){
   return x / y
 }
 
+var 
 function inc(n){
   return n++
-  console.log(n == 1)
 }
